@@ -1,4 +1,4 @@
-[![MasterHead](https://onionreads.com/wp-content/uploads/2023/05/develop-min.jpg)](https://adarshmaurya.com)
+
 <h1 align="center">Hi 👋, I'm Adarsh Maurya</h1>
 <h3 align="center">A web developer programmer and tech enthusiast.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="400">
@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4darsh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="4darsh-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4darsh-dev" alt="4darsh-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/onionreads" target="blank"><img src="https://img.shields.io/twitter/follow/onionreads?logo=twitter&style=for-the-badge" alt="onionreads" /></a> </p>
 
