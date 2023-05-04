@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/OnionReads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onionreads" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarsh-maurya-09343a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-maurya-09343a262" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh-maurya-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-maurya-09343a262" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@onionreads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OnionReads" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Adarsh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Adarsh99" height="30" width="40" /></a>
 </p>
