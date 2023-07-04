@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/onionreads" target="_blank"><img src="https://img.shields.io/twitter/follow/onionreads?logo=twitter&style=for-the-badge" alt="onionreads" /></a> </p>
 
-- 🔭 I’m currently working on [hotornot](https://github.com/4darsh-Dev/hotornot)
+- 🔭 I’m currently working on [recepieBot](https://github.com/4darsh-Dev/recepie-Chatbot-web)
 
-- 🌱 I’m currently learning **C, DSA, CS50**
+- 🌱 I’m currently learning **C++, DSA, CS50**
 
 - 📝 I regularly write articles on [https://onionreads.com/](https://onionreads.com/)
 
