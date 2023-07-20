@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/onionreads" target="_blank"><img src="https://img.shields.io/twitter/follow/onionreads?logo=twitter&style=for-the-badge" alt="onionreads" /></a> </p>
 
-- 🔭 I’m currently working on [recepieBot](https://github.com/4darsh-Dev/recepie-Chatbot-web)
+- 🔭 I’m currently working on [recipeBot](https://github.com/4darsh-Dev/recepie-Chatbot-web)
 
 - 🌱 I’m currently learning **C++, DSA, CS50**
 
