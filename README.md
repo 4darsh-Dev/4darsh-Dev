@@ -40,6 +40,10 @@
 </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4darsh-dev&show_icons=true&locale=en&layout=compact" alt="4darsh-dev" /></p>
+&nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=4darsh-Dev&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4darsh-dev&show_icons=true&locale=en" alt="4darsh-dev" /></p>
 
