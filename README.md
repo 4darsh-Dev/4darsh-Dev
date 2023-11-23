@@ -40,15 +40,12 @@
 </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4darsh-dev&show_icons=true&locale=en&layout=compact" alt="4darsh-dev" /></p>
-&nbsp;**This week I spent my time on**
-
-[![4darsh-Dev's GitHub | Dependencies](https://stats.quine.sh/4darsh-Dev/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4darsh-dev&" alt="4darsh-dev" /></p>
 
-[![An image of @4darshdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/4darshdev)](https://holopin.io/@4darshdev)
-
+[![4darsh-Dev's GitHub | Dependencies](https://stats.quine.sh/4darsh-Dev/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
 [![4darsh-Dev's GitHub | Languages Over Time](https://stats.quine.sh/4darsh-Dev/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
+
+[![An image of @4darshdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/4darshdev)](https://holopin.io/@4darshdev)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
