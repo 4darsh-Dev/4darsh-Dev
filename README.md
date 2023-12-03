@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [NyaySarathi](https://github.com/4darsh-Dev/NyaySarathi)
 
-- 🌱 I’m currently learning **C++, DSA, CS50x**
+- 🌱 I’m currently learning **C++, DSA, CS50x, DevOps**
 
 - 📝 I regularly write articles on [https://onionreads.com/](https://onionreads.com/)
 
@@ -41,6 +41,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4darsh-dev&show_icons=true&locale=en&layout=compact" alt="4darsh-dev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4darsh-dev&" alt="4darsh-dev" /></p>
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=4darsh-Dev&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 [![4darsh-Dev's GitHub | Dependencies](https://stats.quine.sh/4darsh-Dev/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
 [![4darsh-Dev's GitHub | Languages Over Time](https://stats.quine.sh/4darsh-Dev/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
