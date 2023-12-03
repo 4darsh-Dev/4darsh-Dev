@@ -45,13 +45,10 @@
 📊**Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[![WakaTime](https://github.com/4darsh-Dev/4darsh-Dev/workflows/WakaReadme%20DevMetrics/badge.svg)](https://github.com/4darsh-Dev/4darsh-Dev/actions)
 
 [![4darsh-Dev's GitHub | Dependencies](https://stats.quine.sh/4darsh-Dev/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
-[![4darsh-Dev's GitHub | Languages Over Time](https://stats.quine.sh/4darsh-Dev/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
 
 [![An image of @4darshdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/4darshdev)](https://holopin.io/@4darshdev)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
