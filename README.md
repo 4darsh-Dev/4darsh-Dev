@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/4darsh_Dev" target="_blank"><img src="https://img.shields.io/twitter/follow/onionreads?logo=twitter&style=for-the-badge" alt="4darsh_Dev" /></a> </p>
 
-- 🔭 I’m currently working on [NyaySarathi](https://github.com/4darsh-Dev/NyaySarathi)
+- 🔭 I’m currently working on [CogniGuard](https://github.com/4darsh-Dev/CogniGaurd)
 
-- 🌱 I’m currently learning **C++, DSA, CS50x, DevOps**
+- 🌱 I’m currently learning **C++, DSA, DevOps**
 
 - 📝 I regularly write articles on [https://onionreads.com/](https://onionreads.com/)
 
