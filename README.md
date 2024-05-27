@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/4darsh_Dev" target="_blank"><img src="https://img.shields.io/twitter/follow/onionreads?logo=twitter&style=for-the-badge" alt="4darsh_Dev" /></a> </p>
 
-- 🔭 I’m currently working on [MskanAi](https://github.com/4darsh-Dev/MuskanAi)
+- 🔭 I’m currently working on [MuskanAi](https://github.com/4darsh-Dev/MuskanAi)
 
-- 🌱 I’m currently learning **C++, DSA, DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [https://onionreads.com/](https://onionreads.com/)
 
-- 💬 Ask me about **HTML, CSS, JS, PYTHON, DJANGO, C**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, DJANGO, C, C++**
 
 - 📫 How to reach me **adarsh@onionreads.com**
 
@@ -25,10 +25,10 @@
 <a href="https://linkedin.com/in/adarsh-maurya-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-maurya-09343a262" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Adarsh99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Adarsh99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/4darsh-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="4darsh-dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@onionreads" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OnionReads" height="30" width="40" /></a>
-
+<a href="https://www.youtube.com/@adarshgeekslab" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adarshgeekslab" height="30" width="40" /></a>
+<a href="https://kaggle.com/adarshm09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshm09" height="30" width="40" /></a>
 <a href="https://twitter.com/4darsh_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4darsh_dev" height="30" width="40" /></a>
-<a href="https://instagram.com/its_onionreads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_onionreads" height="30" width="40" /></a>
+<a href="https://instagram.com/its_adarsh.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_adarsh.me" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adarsh1930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adarsh1930" height="30" width="40" /></a>
 <a href="/https://www.onionreads.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.onionreads.com/feed" height="30" width="40" /></a>
 
