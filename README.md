@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh Maurya</h1>
-<h3 align="center">A web developer programmer and tech enthusiast.</h3>
+<h3 align="center">Full Stack Web Developer, programmer and tech enthusiast.</h3>
 <img src="https://onionreads.com/wp-content/uploads/2023/10/happy-hacker.gif" align="right" alt="coding" width="400">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [MuskanAi](https://github.com/4darsh-Dev/MuskanAi)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps, GenAI, LLMs**
 
 - 📝 I regularly write articles on [https://onionreads.com/](https://onionreads.com/)
 
@@ -40,9 +40,16 @@
 </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4darsh-dev&show_icons=true&locale=en&layout=compact" alt="4darsh-dev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4darsh-dev&" alt="4darsh-dev" /></p>
+<p align="center">
+  <a href="https://github.com/4darsh-Dev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=4darsh-Dev&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/4darsh-Dev">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4darsh-Dev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4darsh-dev&show_icons=true&locale=en&layout=compact" alt="4darsh-dev" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4darsh-dev&" alt="4darsh-dev" /></p>
 
 📊**Weekly Development Breakdown**
 <!--START_SECTION:waka-->
