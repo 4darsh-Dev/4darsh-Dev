@@ -51,27 +51,4 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4darsh-dev&show_icons=true&locale=en&layout=compact" alt="4darsh-dev" /></p> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4darsh-dev&" alt="4darsh-dev" /></p>
 
-📊**Weekly Development Breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript    1 hr 59 mins    ███████▒░░░░░░░░░░░░░░░░░   29.02 %
-CSS           1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-Python        57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-JSON          34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-Markdown      31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-HTML          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Other         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-YAML          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Git Config    17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Text          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-```
-
-<!--END_SECTION:waka-->
-[![WakaTime](https://github.com/4darsh-Dev/4darsh-Dev/workflows/WakaReadme%20DevMetrics/badge.svg)](https://github.com/4darsh-Dev/4darsh-Dev/actions)
-
-[![4darsh-Dev's GitHub | Dependencies](https://stats.quine.sh/4darsh-Dev/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=4darsh-Dev)
-
-[![An image of @4darshdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/4darshdev)](https://holopin.io/@4darshdev)
-
 
